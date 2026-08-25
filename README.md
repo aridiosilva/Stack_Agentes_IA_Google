@@ -1,3 +1,7 @@
+(Link[https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions])
+
+É o codelab oficial do Google Cloud, intitulado "Google's Agent Stack in Action: ADK, A2A, MCP on Google Cloud".
+
 # Stack_Agentes_IA_Google
 
 A pilha de agentes do Google: ADK, A2A e MCP no Google Cloud  (Isso é baseado em um codelab oficial do Google Cloud chamado exatamente assim, que usa como estudo de caso um app fictício de planejamento social chamado "InstaVibe") 
