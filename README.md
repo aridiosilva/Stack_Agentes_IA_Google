@@ -77,6 +77,48 @@ Um detalhe interessante é o uso do Spanner como grafo: consultas em Graph SQL p
 
 ---
 
+# Tags sugeridas — A pilha de agentes do Google: ADK, A2A e MCP no Google Cloud
+
+## Tecnologias e protocolos
+- ADK / Agent-Development-Kit
+- A2A / Agent2Agent
+- MCP / Model-Context-Protocol
+- Gemini
+- Vertex-AI
+
+## Infraestrutura Google Cloud
+- Google-Cloud
+- Cloud-Run
+- Spanner
+- Vertex-AI-Agent-Engine
+- Artifact-Registry
+- Cloud-Build
+
+## Conceitos e arquitetura
+- Multi-Agent-Systems
+- Agentes-de-IA
+- Orquestração-de-Agentes
+- IA-Generativa
+- LLM
+- Graph-Database
+- Microsserviços
+
+## Nível/formato
+- Codelab
+- Tutorial
+- Arquitetura-de-Software
+- GRC
+
+---
+
+### Formato hashtag
+#ADK #A2A #MCP #GoogleCloud #VertexAI #Gemini #CloudRun #Spanner #MultiAgentSystems #AgentesDeIA #IAGenerativa #LLM #GraphDatabase #Codelab #ArquiteturaDeSoftware #GRC
+
+### Formato lista simples (minúsculas, separadas por vírgula)
+adk, a2a, mcp, google-cloud, vertex-ai, gemini, cloud-run, spanner, vertex-ai-agent-engine, artifact-registry, cloud-build, multi-agent-systems, agentes-de-ia, orquestracao-de-agentes, ia-generativa, llm, graph-database, microsservicos, codelab, tutorial, arquitetura-de-software, grc
+
+**Fonte do artigo original:** https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions
+
 *Nota: essa é a arquitetura de um codelab educacional específico do Google (InstaVibe). O ADK, A2A e MCP em si são ferramentas genéricas que podem ser combinadas de formas diferentes conforme o caso de uso.*
 
 **Fonte:** [Google's Agent Stack in Action: ADK, A2A, MCP on Google Cloud — Google Codelabs](https://codelabs.developers.google.com/instavibe-adk-multi-agents/instructions)
